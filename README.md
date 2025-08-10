@@ -1,7 +1,3 @@
-Ah, brilliant! A good script deserves a good README. Here is a quick README file in Markdown format that describes your PowerShell GUI script. This is perfect for a GitHub repository or a shared drive so everyone knows what it does, how to use it, and what to expect.
-
-***
-
 # Advanced Logon History Viewer
 
 This PowerShell script provides a **graphical user interface (GUI)** to query Windows Security Event Logs for logon and logoff events. It can be run on a local machine or a remote computer (with appropriate permissions). The script filters for common logon-related event IDs, presents the data in a user-friendly table, and allows for exporting the results to a CSV file.
