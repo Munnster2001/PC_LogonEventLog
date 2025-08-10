@@ -38,5 +38,3 @@ This PowerShell script provides a **graphical user interface (GUI)** to query Wi
 * `4800`: Workstation Locked
 * `4801`: Workstation Unlocked
 * `4672`: Special Logon (admin privileges assigned)
-
-This README provides a great overview and will help anyone quickly get started with your excellent script!
